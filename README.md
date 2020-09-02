@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Todo App
 
- Its is my second todo app build in React hooks
+ It is my second todo app build in React hooks
 
 ## Available Scripts
 
