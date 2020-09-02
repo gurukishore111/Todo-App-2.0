@@ -1,6 +1,6 @@
 ## Todo App
 
- It is my second todo app build in React hooks.You can update ,strick out , Remove from the TodoList ✎
+ It is my second todo app build in React hooks.You can update,strick out,Remove from the TodoList ✎
  
 ![todo](https://user-images.githubusercontent.com/52570524/91933620-ff7a1900-ed06-11ea-9011-6b6be9ef9016.png)
 
