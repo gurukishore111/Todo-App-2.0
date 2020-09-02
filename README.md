@@ -2,7 +2,7 @@
 
  It is my second todo app build in React hooks.You can update ,strick out , Remove from the TodoList ✎
  
- ![snapshot2](https://user-images.githubusercontent.com/52570524/91933157-defd8f00-ed05-11ea-9e4b-de73b204dd72.png)
+![todo](https://user-images.githubusercontent.com/52570524/91933620-ff7a1900-ed06-11ea-9011-6b6be9ef9016.png)
 
 
 ## Available Scripts
